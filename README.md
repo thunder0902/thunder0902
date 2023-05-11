@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/ji4971@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
-
+Hello, I am a web developer.
 <!--
 **thunder0902/thunder0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
